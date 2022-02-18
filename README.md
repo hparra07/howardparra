@@ -1,6 +1,6 @@
 ###   Hola, soy Howard ⚡️👋
 
-Soy desarrollador Frontend, soy de 🇻🇪	viviendo en 🇦🇷. Me gusta viajar, conocer, soy amante del futbol, las hamburguesas y las mascotas. Actualmente busco mi primer experiencia laboral en el mundo del desarrollo y si ves esto (reclutador que estás por acá) me gustaría que me brindes la oportunidad.
+Soy desarrollador Frontend, soy de :venezuela: viviendo en :argentina:. Me gusta viajar, conocer, soy amante del futbol, las hamburguesas y las mascotas. Actualmente busco mi primer experiencia laboral en el mundo del desarrollo y si ves esto (reclutador que estás por acá) me gustaría que me brindes la oportunidad.
 
 ### Uso estas herramientas para desarrollar
 

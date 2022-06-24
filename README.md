@@ -11,3 +11,5 @@ Soy desarrollador Frontend, soy de :venezuela: viviendo en :argentina:. Me gusta
 [<img alt="Twitter" src="https://img.shields.io/badge/howardev_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/howardev_) [<img alt="Instagram" src="https://img.shields.io/badge/hparra07-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>]()
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Howard Parra-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/howard-parra-35293013b/)
 [<img alt="gmail" src="https://img.shields.io/badge/howard.parra95@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:howard.parra95@gmail.com)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hparra07&theme=monokai)](https://github.com/hparra07/github-profile-trophy)

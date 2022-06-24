@@ -12,4 +12,4 @@ Soy desarrollador Frontend, soy de :venezuela: viviendo en :argentina:. Me gusta
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Howard Parra-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/howard-parra-35293013b/)
 [<img alt="gmail" src="https://img.shields.io/badge/howard.parra95@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:howard.parra95@gmail.com)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hparra07&theme=monokai)](https://github.com/hparra07/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hparra07&theme=dracula)](https://github.com/hparra07/github-profile-trophy)
